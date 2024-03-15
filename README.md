@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Tushar Kalaskar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
