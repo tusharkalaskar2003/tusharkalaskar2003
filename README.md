@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **tusharkalaskar2003@gmail.com**
 
+- 📋 Minor Projects (To-Do List) **https://tusharkalaskar2003.github.io/To-Do-List/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tusharkalaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharkalaskar" height="30" width="40" /></a>
