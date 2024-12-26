@@ -4,9 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkalaskar2003&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkalaskar2003" /> </p>
 
-- 🔭 I’m currently working on **Hand sign Detection using ML**
 
-- 👯 I’m recently completed [Blood-Donation-System](https://github.com/tusharkalaskar2003/Blood-Donation-System/tree/main)
+- 👯 I’m recently completed [Hospital Management System(JAVA, Angular)](https://github.com/tusharkalaskar2003/Blood-Donation-System/tree/main)
 
 - 📫 How to reach me **tusharkalaskar2003@gmail.com**
 
